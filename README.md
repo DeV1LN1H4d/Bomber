@@ -11,11 +11,11 @@
 
 * `pkg install git -y`
 
-* `git clone https://github.com/DeV1LN1H4d/FuckE-mail`
+* `git clone https://github.com/DeV1LN1H4d/Bomber`
 
-* `cd FuckE-mail`
+* `cd Bomber`
 
-* `python Email.Bom`
+* `python Bomber.py`
 
 
 ## User And Pass:<p align="center">
