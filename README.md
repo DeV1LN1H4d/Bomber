@@ -11,6 +11,8 @@
 
 * `pkg install git -y`
 
+* `pip2 install requests`
+
 * `git clone https://github.com/DeV1LN1H4d/Bomber`
 
 * `cd Bomber`
