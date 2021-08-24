@@ -13,6 +13,8 @@
 
 * `pip2 install requests`
 
+* `pip install mechanize`
+
 * `git clone https://github.com/DeV1LN1H4d/Bomber`
 
 * `cd Bomber`
