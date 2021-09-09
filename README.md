@@ -2,7 +2,7 @@
 
 ## INSTALLATION {Termux}
 
-* Sms And Email bomber
+* # Sms And Email bomber
 
 
 * `apt update`
