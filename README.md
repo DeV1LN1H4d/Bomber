@@ -1,6 +1,7 @@
 <img src="Img.jpg">
 
-## install Sms And Email bomber
+## INSTALLATION {Termux}
+ :Sms And Email bomber:
 
 
 * `apt update`
